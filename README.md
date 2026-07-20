@@ -1,1 +1,1 @@
-# SynapseX-Remake-by-Xyzin
+# Made by Xyzin
