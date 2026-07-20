@@ -1,4 +1,4 @@
-##FOREST BY XYZIN
+## FOREST BY XYZIN
 
 Forest Workshop ist ein BepInEx-5-Mod für die originale PC-Version von
 **The Forest**. Das Menü bündelt Zielhilfe, Waffenoptionen, Spielerfunktionen,
