@@ -1,4 +1,4 @@
-OREST BY XYZIN – Menühandbuch
+FOREST BY XYZIN – Menühandbuch
 
 Forest Workshop ist ein BepInEx-5-Mod für die originale PC-Version von
 **The Forest**. Das Menü bündelt Zielhilfe, Waffenoptionen, Spielerfunktionen,
